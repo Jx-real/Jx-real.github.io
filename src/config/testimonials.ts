@@ -6,22 +6,22 @@ export interface Testimonial {
 export const testimonials: Testimonial[] = [
   {
     content: "THIS MENU IS SO SICK!",
-    author: "OrbitDev.27"
+    author: "Orbit.27"
   },
   {
-    content: "The analytics tools provided insights we never had access to before. The user experience is unmatched.",
-    author: "Alexandra Chen"
+    content: "Best client I've ever used, the features are insane!",
+    author: "Nexus.42"
   },
   {
-    content: "MAKE A REVIEW TO BE HERE",
-    author: "Your Name"
+    content: "Clean UI, smooth performance. Exactly what I needed.",
+    author: "Echo.15"
   },
   {
-    content: "MAKE A REVIEW TO BE HERE",
-    author: "Your Name"
+    content: "This is a game-changer. The responsiveness is incredible!",
+    author: "Vertex.89"
   },
   {
-    content: "MAKE A REVIEW TO BE HERE",
-    author: "Your Name"
+    content: "Amazing features and constant updates. Worth every penny!",
+    author: "Pulse.33"
   }
 ];
