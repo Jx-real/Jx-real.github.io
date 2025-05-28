@@ -4,6 +4,11 @@ import { testimonials } from '../config/testimonials';
 const Testimonials = () => {
   return (
     <section id="testimonials" className="section-padding overflow-hidden">
+      <div className="text-center mb-16">
+        <h2 className="text-5xl md:text-7xl font-bold tracking-tight animate-gradient bg-gradient-to-r from-[#6a00ff] to-purple-600 bg-clip-text text-transparent">
+          Reviews
+        </h2>
+      </div>
       <div className="relative w-full">
         <div className="flex gap-8 animate-scroll">
           {[...testimonials, ...testimonials].map((testimonial, index) => (
