@@ -10,7 +10,7 @@ const featureItems = [
   {
     icon: <Zap className="h-8 w-8 text-[#6a00ff]" />,
     title: 'Lightning Fast',
-    description: 'Optimized performance with minimal impact on your game experience.'
+    description: 'Optimized performance with minimal impact.'
   }
 ];
 
