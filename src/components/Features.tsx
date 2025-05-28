@@ -23,7 +23,7 @@ const Features = () => {
             Why Choose Zyph Client?
           </h2>
           <p className="text-lg text-purple-200">
-            Experience gaming excellence with our premium features.
+            Get The Best Modding Experience.
           </p>
         </div>
         
