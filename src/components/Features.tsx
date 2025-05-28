@@ -4,8 +4,8 @@ import { Shield, Zap } from 'lucide-react';
 const featureItems = [
   {
     icon: <Shield className="h-8 w-8 text-[#6a00ff]" />,
-    title: 'Undetectable',
-    description: 'Advanced protection systems ensure you stay undetected while using our client.'
+    title: 'Anti-Crash',
+    description: 'Our Anti-Crash System Helps You Stay Protected While Modding.'
   },
   {
     icon: <Zap className="h-8 w-8 text-[#6a00ff]" />,
